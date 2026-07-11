@@ -71,7 +71,7 @@ The <a href="https://github.com/ruhi1326/Coffee_Sales_Dashboard/blob/main/Coffee
 - Split Timestamp into separate Date and Time columns
 - Removed unnecessary columns
 - Checked for invalid Quantity and Price values
-- Applied formatting for better readability :contentReference[oaicite:2]{index=2}
+- Applied formatting for better readability 
 
 ---
 
@@ -84,7 +84,7 @@ Created additional columns to support analysis.
 - Month Name
 - Day Name
 - Day Type (Weekday / Weekend)
-- Hour of Day :contentReference[oaicite:3]{index=3}
+- Hour of Day 
 
 ---
 
@@ -145,7 +145,7 @@ Pivot Tables were used to answer important business questions including:
 | Total Orders | 60,344 |
 | Total Units Sold | 2,14,470 |
 | Average Bill | ₹4.69 |
-| Top Product | Ethiopia | :contentReference[oaicite:4]{index=4}
+| Top Product | Ethiopia | 
 
 ---
 
@@ -155,7 +155,7 @@ Pivot Tables were used to answer important business questions including:
 - Large-size beverages contributed significantly to total revenue.
 - Orders with quantity greater than three were relatively low, indicating opportunities for combo offers.
 - Revenue distribution across stores remained balanced.
-- Coffee products contributed the largest share of overall sales. :contentReference[oaicite:5]{index=5}
+- Coffee products contributed the largest share of overall sales. 
 
 ---
 
@@ -165,8 +165,7 @@ Pivot Tables were used to answer important business questions including:
 - Promote coffee-focused combo offers and loyalty programs.
 - Encourage customers to upgrade to Large-sized beverages.
 - Replicate successful promotional strategies during slower months.
-- Introduce bundle offers to increase average basket size. :contentReference[oaicite:6]{index=6}
-
+- Introduce bundle offers to increase average basket size. 
 ---
 
 # 🛠️ Tools & Technologies
